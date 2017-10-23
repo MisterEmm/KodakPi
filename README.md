@@ -1,5 +1,5 @@
 # KodakPi
-This is the code used in the Kodak Pi ambient lamp project. 
+This is the code used in the Kodak Pi notification lamp project. 
 
 It uses a gmail listener script combined with actions to control the Pimoroni Unicorn pHAT, running on a Raspberry Pi Zero W. 
 
