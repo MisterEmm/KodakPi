@@ -5,4 +5,4 @@ It uses a gmail listener script combined with actions to control the Pimoroni Un
 
 The project is on Instructables at XXXXX
 
-There's a youtube video of the code in action at XXXX
+There's a youtube video of the code in action at https://youtu.be/B_vkmmcb0_M
